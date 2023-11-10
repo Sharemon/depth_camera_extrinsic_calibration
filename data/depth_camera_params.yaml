@@ -1,0 +1,12 @@
+%YAML:1.0
+---
+width: 1280
+height: 720
+f: 1000.0
+cx: 639.5
+cy: 359.5
+camera_height: 2.0
+pitch: 110.0
+incline: -11.0
+depth_max: 10.0
+depth_noise: 0.05
